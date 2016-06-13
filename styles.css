@@ -1,3 +1,32 @@
 body {
-  background: LightSkyBlue;
+  background-image: url("images/asanoha-400px.png");
+  background-repeat: repeat;
+}
+
+#de-oro {
+  padding: 20px;
+  border: thick solid orange;
+}
+
+table {
+  margin: 20px;
+}
+
+h1 {
+  font-family: Helvetica;
+}
+
+#main-image {
+  width: 640px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a:visited {
+  color: orange;
+}
+
+.orange-underline {
+  border-bottom: thick solid orange;
 }
