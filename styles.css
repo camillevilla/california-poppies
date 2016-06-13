@@ -1,3 +1,8 @@
+body {
+  background-image: url("images/asanoha-400px.png");
+  background-repeat: repeat;
+}
+
 #de-oro {
   padding: 20px;
   border: thick solid orange;
