@@ -26,3 +26,7 @@ h1 {
 a:visited {
   color: orange;
 }
+
+.orange-underline {
+  border-bottom: thick solid orange;
+}
