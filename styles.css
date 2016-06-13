@@ -30,3 +30,17 @@ a:visited {
 .orange-underline {
   border-bottom: thick solid orange;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1em;
+    display: block;
+    width: 100%;
+  }
+  #main-image {
+    width: 400px;
+  }
+  #de-oro {
+    width: 350px;
+  }
+}
