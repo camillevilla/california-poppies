@@ -7,6 +7,10 @@ table {
   margin: 20px;
 }
 
+h1 {
+  font-family: Helvetica;
+}
+
 #main-image {
   width: 640px;
   display: block;
