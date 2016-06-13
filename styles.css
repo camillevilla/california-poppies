@@ -10,6 +10,7 @@ body {
 
 table {
   margin: 20px;
+  border: thin solid SlateGrey;
 }
 
 h1 {
