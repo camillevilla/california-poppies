@@ -10,6 +10,7 @@ body {
 
 table {
   margin: 20px;
+  border: thin solid SlateGrey;
 }
 
 h1 {
@@ -29,4 +30,23 @@ a:visited {
 
 .orange-underline {
   border-bottom: thick solid orange;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1em;
+    display: block;
+    width: 90%;
+    text-align: justify;
+    margin: 0 auto;
+  }
+  h1, h2, h3 {
+    text-align: center;
+  }
+  #main-image {
+    width: 400px;
+  }
+  #de-oro {
+    width: 350px;
+  }
 }
